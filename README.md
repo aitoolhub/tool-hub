@@ -31,7 +31,7 @@
 - Internet connection
 
 ### Visit the Website
-Access the live site: [https://your-website-url.com](https://aitoolhub.github.io/tool-hub/)
+Access the live site: [AI Tool Hub](https://aitoolhub.github.io/tool-hub/)
 
 ## 💡 How to Use
 
